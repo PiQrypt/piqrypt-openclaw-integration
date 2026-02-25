@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "piqrypt-openclaw"
+name = "piqrypt-openclaw-integration"
 version = "1.0.0"
 description = "PiQrypt cryptographic audit trail bridge for OpenClaw autonomous agents"
 readme = "README.md"

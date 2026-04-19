@@ -9,7 +9,7 @@ description = "PiQrypt cryptographic audit trail bridge for OpenClaw autonomous 
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "PiQrypt Contributors", email = "piqrypt@gmail.com"}
+    {name = "PiQrypt Contributors", email = "contact@piqrypt.com"}
 ]
 requires-python = ">=3.9"
 keywords = ["cryptography", "openclaw", "audit", "ai-agents", "aiss", "autonomous"]
@@ -22,7 +22,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 dependencies = [
-    "piqrypt>=1.5.1",
+    "piqrypt>=1.8.6",
 ]
 
 [project.urls]
